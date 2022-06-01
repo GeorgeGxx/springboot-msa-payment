@@ -2,6 +2,6 @@
 
 Java 8 + SpringBoot & Eureka
 
-## Endpoints:
+## Endpoints & Requests in Swagger
 
 Updating..

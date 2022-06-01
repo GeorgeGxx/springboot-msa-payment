@@ -2,6 +2,6 @@
 
 Java 8 + SpringBoot & Eureka
 
-- Endpoints & Requests in Swagger
+- Checkout Swagger for Endpoints & Requests
 
 Updating..
